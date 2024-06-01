@@ -26,7 +26,7 @@ The E-commerce Site is a fully-functional web platform designed for buying and s
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ecommerce-site.git`
+1. Clone the repository: `git clone https://github.com/SathishKumar-2004/E-Commerce-Site.git`
 2. Configure the database connection in the PHP files.
 3. Open `index.html` in your web browser to launch the E-commerce Site.
 
